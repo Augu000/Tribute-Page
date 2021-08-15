@@ -1,0 +1,27 @@
+* {
+    font-family: 'STIX Two Text', serif;
+    
+}
+
+
+body {
+    text-align: center;
+    
+}
+
+
+
+
+#image{
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#tribute-info{
+    background-color: bisque;
+    border-radius: 15px;
+}
+
